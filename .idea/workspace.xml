@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95ff825a-bcf1-4f1e-a351-9000bef82b87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/downloads/Olivier Arbellay CV ENG.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -20,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="105" column="154" selection-start-line="105" selection-start-column="154" selection-end-line="105" selection-end-column="154" />
+            <state relative-caret-position="459">
+              <caret line="60" column="204" selection-start-line="60" selection-start-column="204" selection-end-line="60" selection-end-column="204" />
               <folding>
                 <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -63,6 +62,11 @@
             <path>
               <item name="idylx.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="idylx.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="idylx.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="idylx.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="downloads" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -81,6 +85,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../HES/Dossier Hes/6th semester/AC/06/626-1 - architecture is/projet/626-1_biztalk" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\idylx.github.io\downloads" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -116,7 +125,7 @@
       <workItem from="1557491262165" duration="22000" />
       <workItem from="1557998869886" duration="4000" />
       <workItem from="1559906185317" duration="32000" />
-      <workItem from="1560865946284" duration="2144000" />
+      <workItem from="1560865946284" duration="2620000" />
     </task>
     <task id="LOCAL-00001" summary="some first change">
       <created>1553190012731</created>
@@ -160,11 +169,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560867575522</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="downloads pdf and remove forms">
+      <created>1560868110665</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1560868110665</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14462000" />
+    <option name="totallyTimeSpent" value="14938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -198,7 +214,8 @@
     <MESSAGE value="some other change" />
     <MESSAGE value="some other changes" />
     <MESSAGE value="basic changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="basic changes" />
+    <MESSAGE value="downloads pdf and remove forms" />
+    <option name="LAST_COMMIT_MESSAGE" value="downloads pdf and remove forms" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/images/img_bg_2.jpg">
@@ -206,8 +223,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="105" column="154" selection-start-line="105" selection-start-column="154" selection-end-line="105" selection-end-column="154" />
+        <state relative-caret-position="459">
+          <caret line="60" column="204" selection-start-line="60" selection-start-column="204" selection-end-line="60" selection-end-column="204" />
           <folding>
             <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#section#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
